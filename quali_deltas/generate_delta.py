@@ -1,3 +1,4 @@
+#%%
 import fastf1 as ff1
 import pandas as pd
 import matplotlib.pyplot as plt
