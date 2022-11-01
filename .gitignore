@@ -1,2 +1,5 @@
-cache
-quali_deltas/cache
+cache/**
+quali_deltas/cache/**
+
+!cache/.keep
+!quali_deltas/cache/.keep

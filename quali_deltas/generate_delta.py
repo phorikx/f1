@@ -22,3 +22,5 @@ df = pd.DataFrame({'drivers':drivers, 'laptimes': laptimes})
 
 df.plot(x='drivers', y='laptimes', kind='scatter')
 plt.show
+
+# %%
